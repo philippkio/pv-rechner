@@ -18,7 +18,7 @@ input[type="number"]{-moz-appearance:textfield}
 
   // HTML einfügen
   const html = `
-<div class="container mx-auto px-1 py-5 max-w-lg">
+<div class="container mx-auto px-1 py-5 w-full max-w-full">
 <header class="mb-6 text-center">
 </header>
 <div class="bg-white rounded-lg shadow-lg p-2 sm:p-4 mb-4">
